@@ -1,5 +1,5 @@
-Python Arithmetic Operators
-Arithmetic operators are used with numeric values to perform common mathematical operations:
+# Python Arithmetic Operators
+# Arithmetic operators are used with numeric values to perform common mathematical operations:
 # +	Addition	x + y	
 # -	Subtraction	x - y	
 # *	Multiplication	x * y	
@@ -8,8 +8,8 @@ Arithmetic operators are used with numeric values to perform common mathematical
 # **	Exponentiation	x ** y	
 # //	Floor division	x // y
 
-Python Comparison Operators
-Comparison operators are used to compare two values:
+# Python Comparison Operators
+# Comparison operators are used to compare two values:
 
 # ==	Equal	x == y	
 # !=	Not equal	x != y	
@@ -18,8 +18,8 @@ Comparison operators are used to compare two values:
 # >=	Greater than or equal to	x >= y	
 # <=	Less than or equal to	x <= y
 
-Python Bitwise Operators
-Bitwise operators are used to compare (binary) numbers:
+# Python Bitwise Operators
+# Bitwise operators are used to compare (binary) numbers:
 
 # & 	AND	Sets each bit to 1 if both bits are 1	x & y	
 # |	OR	Sets each bit to 1 if one of two bits is 1	x | y	
