@@ -21,3 +21,8 @@ date1 = datetime(2024, 2, 10, 14, 30, 0)  # Example date 1
 date2 = datetime(2024, 2, 15, 18, 45, 0)  # Example date 2
 date_difference_seconds = abs((date2 - date1).total_seconds())
 print("Difference between dates in seconds:", date_difference_seconds)
+from datetime import datetime, timedelta
+
+cur = datetime.now()
+a = cur-timedelta(days=2)
+a = cur + timedelta(days=2)

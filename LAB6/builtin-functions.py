@@ -38,7 +38,7 @@ if __name__ == "__main__":
     print("Is palindrome:", is_palindrome("madam"))
     
     # Test delayed_sqrt
-    num, delay = 25100, 2123
+    num, delay = 25100, 5000
     print(f"Square root of {num} after {delay} milliseconds is {delayed_sqrt(num, delay)}")
     
     # Test all_true
